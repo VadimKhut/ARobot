@@ -1,0 +1,1157 @@
+Opening port
+Debug off
+Port failed to open
+Port open
+Port no longer available
+Port open
+DS18B20= C0 01 37 37 1F FF 10 10 5A 
+DS18B20= C0 01 37 37 1F FF 10 10 5A 
+Welcome
+*************
+playFile, Macar.wav, 0
+PS2 : 1
+PS2 check ERROR!!
+Unknown Controller type
+PS2 : 0
+Unknown Controller type
+==IFM
+==PWOF
+A-Robot Monitor:
+D - Toggle debug On or Off
+==TO
+==PrUSFR
+DisFr<4=4
+==TOFR
+==PrUSFR
+DisFr<4=4
+==TOFR
+==PrUSFR
+DisFr<4=0
+==TOFR
+==PrUSFR
+DisFr<4=4
+==TOFR
+==PrUSFR
+DisFr<4=0
+==TOFR
+==PrUSFR
+DisFr<4=4
+==TOFR
+DisFr4=0
+==PrUSFR
+==TOFR
+DisFr4=0
+==PrUSFR
+==TOFR
+DisFr4=2
+==>30fr
+spL=180 spR=180
+==PrUSFR
+DisFr<4=0
+==TOFR
+==PrUSFR
+DisFr<4=4
+==TOFR
+==PrUSFR
+DisFr<4=0
+==TOFR
+==PrUSFR
+DisFr<4=4
+==TOFR
+==PrUSFR
+DisFr<4=0
+==TOFR
+==PrUSFR
+DisFr<4=4
+==TOFR
+==PrUSFR
+DisFr<4=0
+==TOFR
+==PrUSFR
+DisFr<4=4
+==TOFR
+DisFr4=0
+==PrUSFR
+==TOFR
+DisFr4=0
+==PrUSFR
+==TOFR
+DisFr4=2
+==>30fr
+spL=180 spR=180 old==speed
+==PrUSFR
+DisFr<4=0
+==TOFR
+==PrUSFR
+DisFr<4=4
+==TOFR
+==PrUSFR
+DisFr<4=0
+==TOFR
+==PrUSFR
+DisFr<4=4
+==TOFR
+==PrUSFR
+DisFr<4=0
+==TOFR
+==mStop
+==STOP
+==MANUAL
+==Fr0&f0
+spL=0 spR=0 old==speed
+==TO
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+
+
+
+==PrUSFR
+DisFr<4=4
+==TOFR
+==PrUSFR
+DisFr<4=0
+==TOFR
+==PrUSFR
+DisFr<4=4
+==TOFR
+DisFr4=0
+==PrUSFR
+==TOFR
+DisFr4=0
+==PrUSFR
+==TOFR
+DisFr4=2
+==>30fr
+spL=255 spR=255
+==PrUSFR
+DisFr<4=0
+==TOFR
+==PrUSFR
+DisFr<4=4
+==TOFR
+==PrUSFR
+DisFr<4=0
+==TOFR
+==PrUSFR
+DisFr<4=4
+==TOFR
+==PrUSFR
+DisFr<4=0
+==TOFR
+==PrUSFR
+DisFr<4=4
+==TOFR
+==PrUSFR
+DisFr<4=0
+==TOFR
+==PrUSFR
+DisFr<4=4
+==TOFR
+DisFr4=0
+==PrUSFR
+==TOFR
+DisFr4=0
+==PrUSFR
+==TOFR
+DisFr4=2
+==>30fr
+spL=255 spR=255 old==speed
+==PrUSFR
+DisFr<4=4
+==TOFR
+==PrUSFR
+DisFr<4=0
+==TOFR
+==PrUSFR
+DisFr<4=4
+==TOFR
+==PrUSFR
+DisFr<4=0
+==TOFR
+==PrUSFR
+DisFr<4=4
+==TOFR
+==PrUSFR
+DisFr<4=0
+==TOFR
+==PrUSFR
+DisFr<4=4
+==TOFR
+DisFr4=0
+==PrUSFR
+==TOFR
+DisFr4=0
+==PrUSFR
+==TOFR
+DisFr4=2
+==>30fr
+spL=255 spR=255 old==speed
+==PrUSFR
+DisFr<4=4
+==TOFR
+==PrUSFR
+DisFr<4=0
+==TOFR
+==PrUSFR
+DisFr<4=4
+==TOFR
+==PrUSFR
+DisFr<4=0
+==TOFR
+==PrUSFR
+DisFr<4=4
+==TOFR
+==PrUSFR
+DisFr<4=0
+==TOFR
+==PrUSFR
+DisFr<4=4
+==TOFR
+DisFr4=0
+==PrUSFR
+==TOFR
+DisFr4=0
+==PrUSFR
+==TOFR
+DisFr4=2
+==>30fr
+spL=255 spR=255 old==speed
+==PrUSFR
+DisFr<4=0
+==TOFR
+==PrUSFR
+DisFr<4=4
+==TOFR
+==PrUSFR
+DisFr<4=0
+==TOFR
+==PrUSFR
+DisFr<4=4
+==TOFR
+==PrUSFR
+DisFr<4=0
+==TOFR
+==PrUSFR
+DisFr<4=4
+==TOFR
+==PrUSFR
+DisFr<4=0
+==TOFR
+==PrUSFR
+DisFr<4=4
+==TOFR
+DisFr4=0
+==PrUSFR
+==TOFR
+DisFr4=0
+==PrUSFR
+==TOFR
+DisFr4=2
+==>30fr
+spL=255 spR=255 old==speed
+==PrUSFR
+DisFr<4=0
+==TOFR
+==PrUSFR
+DisFr<4=4
+==TOFR
+==PrUSFR
+DisFr<4=0
+==TOFR
+==PrUSFR
+DisFr<4=4
+==TOFR
+==PrUSFR
+DisFr<4=0
+==TOFR
+==PrUSFR
+DisFr<4=4
+==TOFR
+==PrUSFR
+DisFr<4=0
+==TOFR
+==PrUSFR
+DisFr<4=4
+==TOFR
+DisFr4=0
+==PrUSFR
+==TOFR
+DisFr4=0
+==PrUSFR
+==TOFR
+DisFr4=2
+==>30fr
+spL=255 spR=255 old==speed
+==PrUSFR
+DisFr<4=4
+==TOFR
+==PrUSFR
+DisFr<4=0
+==TOFR
+==PrUSFR
+DisFr<4=4
+==TOFR
+==PrUSFR
+DisFr<4=0
+==TOFR
+==PrUSFR
+DisFr<4=4
+==TOFR
+==PrUSFR
+DisFr<4=0
+==TOFR
+==PrUSFR
+DisFr<4=4
+==TOFR
+DisFr4=0
+==PrUSFR
+==TOFR
+DisFr4=0
+==PrUSFR
+==TOFR
+DisFr4=2
+==>30fr
+spL=255 spR=255 old==speed
+==PrUSFR
+DisFr<4=0
+==TOFR
+==PrUSFR
+DisFr<4=4
+==TOFR
+==PrUSFR
+DisFr<4=0
+==TOFR
+==PrUSFR
+DisFr<4=4
+==TOFR
+==PrUSFR
+DisFr<4=0
+==TOFR
+==PrUSFR
+DisFr<4=4
+==TOFR
+==PrUSFR
+DisFr<4=0
+==TOFR
+==PrUSFR
+DisFr<4=4
+==TOFR
+DisFr4=0
+==PrUSFR
+==TOFR
+DisFr4=0
+==PrUSFR
+==TOFR
+DisFr4=2
+==>30fr
+spL=255 spR=255 old==speed
+==PrUSFR
+DisFr<4=4
+==TOFR
+==PrUSFR
+DisFr<4=0
+==TOFR
+==PrUSFR
+DisFr<4=4
+==TOFR
+==PrUSFR
+DisFr<4=0
+==TOFR
+==PrUSFR
+DisFr<4=4
+==TOFR
+==PrUSFR
+DisFr<4=0
+==TOFR
+==PrUSFR
+DisFr<4=4
+==TOFR
+DisFr4=0
+==PrUSFR
+==TOFR
+DisFr4=0
+==PrUSFR
+==TOFR
+DisFr4=2
+==>30fr
+spL=255 spR=255 old==speed
+==PrUSFR
+DisFr<4=4
+==TOFR
+==PrUSFR
+DisFr<4=0
+==TOFR
+==PrUSFR
+DisFr<4=4
+==TOFR
+==PrUSFR
+DisFr<4=0
+==TOFR
+==PrUSFR
+DisFr<4=4
+==TOFR
+==PrUSFR
+DisFr<4=0
+==TOFR
+==PrUSFR
+DisFr<4=4
+==TOFR
+DisFr4=0
+==PrUSFR
+==TOFR
+DisFr4=0
+==PrUSFR
+==TOFR
+DisFr4=2
+==>30fr
+spL=255 spR=255 old==speed
+==PrUSFR
+DisFr<4=4
+==TOFR
+==PrUSFR
+DisFr<4=0
+==TOFR
+==PrUSFR
+DisFr<4=4
+==TOFR
+==PrUSFR
+DisFr<4=0
+==TOFR
+==PrUSFR
+DisFr<4=4
+==TOFR
+==PrUSFR
+DisFr<4=0
+==TOFR
+==PrUSFR
+DisFr<4=4
+==TOFR
+DisFr4=0
+==PrUSFR
+==TOFR
+DisFr4=0
+==PrUSFR
+==TOFR
+DisFr4=2
+==>30fr
+spL=255 spR=255 old==speed
+==PrUSFR
+DisFr<4=4
+==TOFR
+==PrUSFR
+DisFr<4=0
+==TOFR
+==PrUSFR
+DisFr<4=4
+==TOFR
+==PrUSFR
+DisFr<4=0
+==TOFR
+==PrUSFR
+DisFr<4=4
+==TOFR
+==PrUSFR
+DisFr<4=0
+==TOFR
+==PrUSFR
+DisFr<4=4
+==TOFR
+DisFr4=0
+==PrUSFR
+==TOFR
+DisFr4=0
+==PrUSFR
+==TOFR
+DisFr4=2
+==>30fr
+spL=255 spR=255 old==speed
+==PrUSFR
+DisFr<4=4
+==TOFR
+==PrUSFR
+DisFr<4=0
+==TOFR
+==PrUSFR
+DisFr<4=4
+==TOFR
+==PrUSFR
+DisFr<4=0
+==TOFR
+==PrUSFR
+DisFr<4=4
+==TOFR
+==PrUSFR
+DisFr<4=0
+==TOFR
+==PrUSFR
+DisFr<4=4
+==TOFR
+DisFr4=0
+==PrUSFR
+==TOFR
+DisFr4=0
+==PrUSFR
+==TOFR
+DisFr4=2
+==>30fr
+spL=255 spR=255 old==speed
+==PrUSFR
+DisFr<4=0
+==TOFR
+==PrUSFR
+DisFr<4=4
+==TOFR
+==PrUSFR
+DisFr<4=0
+==TOFR
+==PrUSFR
+DisFr<4=4
+==TOFR
+==PrUSFR
+DisFr<4=0
+==TOFR
+==PrUSFR
+DisFr<4=4
+==TOFR
+==PrUSFR
+DisFr<4=0
+==TOFR
+==PrUSFR
+DisFr<4=4
+==TOFR
+DisFr4=0
+==PrUSFR
+==TOFR
+DisFr4=0
+==Fr0&f0
+spL=0 spR=0
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==PrUSRV
+DisRv<4=4
+==TOREV
+==PrUSRV
+DisRv<4=0
+==TOREV
+==PrUSRV
+DisRv<4=4
+==TOREV
+==PrUSRV
+DisRv<4=0
+==TOREV
+==PrUSRV
+DisRv<4=4
+==TOREV
+==PrUSRV
+DisRv<4=0
+==TOREV
+==PrUSRV
+DisRv<4=4
+==TOREV
+DisRv4=0
+==PrUSRV
+==TOREV
+DisRv4=2
+==>30rv
+spL=-255 spR=-255
+==PrUSRV
+DisRv<4=0
+==TOREV
+==PrUSRV
+DisRv<4=4
+==TOREV
+==PrUSRV
+DisRv<4=0
+==TOREV
+==PrUSRV
+DisRv<4=4
+==TOREV
+==PrUSRV
+DisRv<4=0
+==TOREV
+==PrUSRV
+DisRv<4=4
+==TOREV
+==PrUSRV
+DisRv<4=0
+==TOREV
+==PrUSRV
+DisRv<4=4
+==TOREV
+DisRv4=0
+==PrUSRV
+==TOREV
+DisRv4=0
+==PrUSRV
+==TOREV
+DisRv4=2
+==>30rv
+spL=-255 spR=-255 old==speed
+==PrUSRV
+DisRv<4=4
+==TOREV
+==PrUSRV
+DisRv<4=0
+==TOREV
+==PrUSRV
+DisRv<4=4
+==TOREV
+==PrUSRV
+DisRv<4=0
+==TOREV
+==PrUSRV
+DisRv<4=4
+==TOREV
+==PrUSRV
+DisRv<4=0
+==TOREV
+==PrUSRV
+DisRv<4=4
+==TOREV
+DisRv4=0
+==PrUSRV
+==TOREV
+DisRv4=0
+==PrUSRV
+==TOREV
+DisRv4=2
+==>30rv
+spL=-255 spR=-255 old==speed
+==PrUSRV
+DisRv<4=4
+==TOREV
+==PrUSRV
+DisRv<4=0
+==TOREV
+==PrUSRV
+DisRv<4=4
+==TOREV
+==PrUSRV
+DisRv<4=0
+==TOREV
+==PrUSRV
+DisRv<4=4
+==TOREV
+==PrUSRV
+DisRv<4=0
+==TOREV
+==PrUSRV
+DisRv<4=4
+==TOREV
+DisRv4=0
+==PrUSRV
+==TOREV
+DisRv4=0
+==PrUSRV
+==TOREV
+DisRv4=2
+==>30rv
+spL=-255 spR=-255 old==speed
+==PrUSRV
+DisRv<4=4
+==TOREV
+==PrUSRV
+DisRv<4=0
+==TOREV
+==PrUSRV
+DisRv<4=4
+==TOREV
+==PrUSRV
+DisRv<4=0
+==TOREV
+==PrUSRV
+DisRv<4=4
+==TOREV
+==PrUSRV
+DisRv<4=0
+==TOREV
+==PrUSRV
+DisRv<4=4
+==TOREV
+DisRv4=0
+==PrUSRV
+==TOREV
+DisRv4=0
+==PrUSRV
+==TOREV
+DisRv4=2
+==>30rv
+spL=-255 spR=-255 old==speed
+==PrUSRV
+DisRv<4=4
+==TOREV
+==PrUSRV
+DisRv<4=0
+==TOREV
+==PrUSRV
+DisRv<4=4
+==TOREV
+==PrUSRV
+DisRv<4=0
+==TOREV
+==PrUSRV
+DisRv<4=4
+==TOREV
+==PrUSRV
+DisRv<4=0
+==TOREV
+==PrUSRV
+DisRv<4=4
+==TOREV
+DisRv4=0
+==PrUSRV
+==TOREV
+DisRv4=0
+==PrUSRV
+==TOREV
+DisRv4=2
+==>30rv
+spL=-255 spR=-255 old==speed
+==PrUSRV
+DisRv<4=4
+==TOREV
+==PrUSRV
+DisRv<4=0
+==TOREV
+==PrUSRV
+DisRv<4=4
+==TOREV
+==PrUSRV
+DisRv<4=0
+==TOREV
+==PrUSRV
+DisRv<4=4
+==TOREV
+==PrUSRV
+DisRv<4=0
+==TOREV
+==PrUSRV
+DisRv<4=4
+==TOREV
+DisRv4=0
+==PrUSRV
+==TOREV
+DisRv4=0
+==PrUSRV
+==TOREV
+DisRv4=2
+==>30rv
+spL=-255 spR=-255 old==speed
+==PrUSRV
+DisRv<4=4
+==TOREV
+==PrUSRV
+DisRv<4=0
+==TOREV
+==PrUSRV
+DisRv<4=4
+==TOREV
+==PrUSRV
+DisRv<4=0
+==TOREV
+==PrUSRV
+DisRv<4=4
+==TOREV
+==PrUSRV
+DisRv<4=0
+==TOREV
+==PrUSRV
+DisRv<4=4
+==TOREV
+DisRv4=0
+==PrUSRV
+==TOREV
+DisRv4=0
+==PrUSRV
+==TOREV
+DisRv4=2
+==>30rv
+spL=-255 spR=-255 old==speed
+==PrUSRV
+DisRv<4=4
+==TOREV
+==PrUSRV
+DisRv<4=0
+==TOREV
+==PrUSRV
+DisRv<4=4
+==TOREV
+==PrUSRV
+DisRv<4=0
+==TOREV
+==PrUSRV
+DisRv<4=4
+==TOREV
+==PrUSRV
+DisRv<4=0
+==TOREV
+==PrUSRV
+DisRv<4=4
+==TOREV
+DisRv4=0
+==PrUSRV
+==TOREV
+DisRv4=0
+==PrUSRV
+==TOREV
+DisRv4=2
+==>30rv
+spL=-255 spR=-255 old==speed
+==PrUSRV
+DisRv<4=4
+==TOREV
+==PrUSRV
+DisRv<4=0
+==TOREV
+==PrUSRV
+DisRv<4=4
+==TOREV
+==PrUSRV
+DisRv<4=0
+==TOREV
+==PrUSRV
+DisRv<4=4
+==TOREV
+==PrUSRV
+DisRv<4=0
+==TOREV
+==PrUSRV
+DisRv<4=4
+==TOREV
+DisRv4=0
+==PrUSRV
+==TOREV
+DisRv4=0
+==PrUSRV
+==TOREV
+DisRv4=2
+==>30rv
+spL=-255 spR=-255 old==speed
+==PrUSRV
+DisRv<4=4
+==TOREV
+==PrUSRV
+DisRv<4=0
+==TOREV
+==PrUSRV
+DisRv<4=4
+==TOREV
+==PrUSRV
+DisRv<4=0
+==TOREV
+==PrUSRV
+DisRv<4=4
+==TOREV
+==PrUSRV
+DisRv<4=0
+==TOREV
+==PrUSRV
+DisRv<4=4
+==TOREV
+DisRv4=0
+==PrUSRV
+==TOREV
+DisRv4=0
+==PrUSRV
+==TOREV
+DisRv4=2
+==>30rv
+spL=-255 spR=-255 old==speed
+==PrUSRV
+DisRv<4=4
+==TOREV
+==PrUSRV
+DisRv<4=0
+==TOREV
+==PrUSRV
+DisRv<4=4
+==TOREV
+==PrUSRV
+DisRv<4=0
+==TOREV
+==PrUSRV
+DisRv<4=4
+==TOREV
+==PrUSRV
+DisRv<4=0
+==TOREV
+==PrUSRV
+DisRv<4=4
+==TOREV
+DisRv4=0
+==PrUSRV
+==TOREV
+DisRv4=0
+==PrUSRV
+==TOREV
+DisRv4=2
+==>30rv
+spL=-255 spR=-255 old==speed
+==PrUSRV
+DisRv<4=4
+==TOREV
+==PrUSRV
+DisRv<4=0
+==TOREV
+==PrUSRV
+DisRv<4=4
+==TOREV
+==PrUSRV
+DisRv<4=0
+==TOREV
+==PrUSRV
+DisRv<4=4
+==TOREV
+==PrUSRV
+DisRv<4=0
+==TOREV
+==PrUSRV
+DisRv<4=4
+==TOREV
+DisRv4=0
+==PrUSRV
+==TOREV
+DisRv4=0
+==PrUSRV
+==TOREV
+DisRv4=2
+==>30rv
+spL=-255 spR=-255 old==speed
+==PrUSRV
+DisRv<4=4
+==TOREV
+==PrUSRV
+DisRv<4=0
+==TOREV
+==PrUSRV
+DisRv<4=4
+==TOREV
+==PrUSRV
+DisRv<4=0
+==TOREV
+==PrUSRV
+DisRv<4=4
+==TOREV
+==Fr0&f0
+spL=0 spR=0
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+spL=0 spR=0 old==speed
+==Fr0&f0
+
+		#ifdef DEBUG
+			if (F_DebugOutput) {
+				if (F_DebugRun) {
+
+
+		#endif
+
